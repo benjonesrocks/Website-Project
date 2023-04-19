@@ -1,0 +1,43 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizedtext{
+    font-style: italic;
+    color:powderblue;
+}
+body{
+    background-color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+}
+.fontcolor{
+    color:blue;
+    font-family:'Times New Roman', Times, serif
+}
+img{
+    text-align: center;
+    height: 400px;
+    width: 250px;
+}
+
+ul{
+    list-style-position: inside;
+}
+.left{
+    text-align: left;
+}
+.center{
+    text-align: center;
+}
+.fontstyle{
+    font-family: 'Times New Roman', Times, serif;
+}
